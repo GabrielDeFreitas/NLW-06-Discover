@@ -8,7 +8,7 @@
     "start": "nodemon .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "init-db": "node src/db/init.js",
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d"
   },
   "keywords": [],
   "author": "Gabriel Freitas",
